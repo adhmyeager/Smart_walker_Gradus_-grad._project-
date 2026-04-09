@@ -1,0 +1,16 @@
+50 kg Load Cell Resistance Strain Half Bridge Sensor
+
+Link to CAD files:
+https://grabcad.com/library/50-kg-load-cell-resistance-strain-half-bridge-sensor-1
+
+#50kg #loadcell #load #cell #resistance #halfbridgesensor #halfbridge #weighitems #weightscale #arduino #CAD #SolidWorks #3dmodels #3dmodeling
+
+Can use to make your own weight scale.
+
+Commonly used with Arduino.
+
+https://bit.ly/2JcbNaz
+
+Can be used with the additional board below:
+
+https://bit.ly/2PllCIT
